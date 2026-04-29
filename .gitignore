@@ -1,0 +1,17 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution
+dist/
+build/
+
+# State files
+.lark_chunked_update_state.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
